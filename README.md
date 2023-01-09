@@ -17,9 +17,9 @@ Leetcode problems. Preparing for technical interviews
     - [x] Day 2. String
       - [x] [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/?envType=study-plan&id=level-1)
       - [x] [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/?envType=study-plan&id=level-1)
-    - [ ] Day 3. Linked List
-      - [ ] [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?envType=study-plan&id=level-1)
-      - [ ] [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/?envType=study-plan&id=level-1)
+    - [x] Day 3. Linked List
+      - [x] [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?envType=study-plan&id=level-1)
+      - [x] [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/?envType=study-plan&id=level-1)
     - [ ] Day 4. Linked List
       - [ ] [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/?envType=study-plan&id=level-1)
       - [ ] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/?envType=study-plan&id=level-1)
