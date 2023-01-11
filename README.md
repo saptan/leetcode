@@ -23,9 +23,9 @@ Leetcode problems. Preparing for technical interviews
     - [x] Day 4. Linked List
       - [x] [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/?envType=study-plan&id=level-1)
       - [x] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/?envType=study-plan&id=level-1)
-    - [ ] Day 5. Greedy
-      - [ ] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan&id=level-1)
-      - [ ] [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/?envType=study-plan&id=level-1)
+    - [x] Day 5. Greedy
+      - [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan&id=level-1)
+      - [x] [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/?envType=study-plan&id=level-1)
 
 
 
