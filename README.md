@@ -26,6 +26,7 @@ Leetcode problems. Preparing for technical interviews
     - [x] Day 5. Greedy
       - [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan&id=level-1)
       - [x] [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/?envType=study-plan&id=level-1)
+    - [x] Day 6. Tree
 
 
 
