@@ -26,9 +26,9 @@ Leetcode problems. Preparing for technical interviews
     - [x] Day 5. Greedy
       - [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan&id=level-1)
       - [x] [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/?envType=study-plan&id=level-1)
-    - [ ] Day 6. Tree
-      - [ ] [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/?envType=study-plan&id=level-1)
-      - [ ] [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/?envType=study-plan&id=level-1)
+    - [x] Day 6. Tree
+      - [x] [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/?envType=study-plan&id=level-1)
+      - [x] [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/?envType=study-plan&id=level-1)
     - [ ] Day 7. Binary Search
       - [ ] [704. Binary Search](https://leetcode.com/problems/binary-search/?envType=study-plan&id=level-1)
       - [ ] [278. First Bad Version](https://leetcode.com/problems/first-bad-version/?envType=study-plan&id=level-1)
